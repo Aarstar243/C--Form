@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Projet_final
 {
-    class Etudiants
+    public class Etudiants
     {
+        int NumeroEtudiant = 1;
+        string Prenom;
+        string Nom;
+
+
+
+
+
+
+
     }
 }
